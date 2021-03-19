@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/_cacache
+/_update-notifier-last-checked
 /.pnp
 .pnp.js
 
