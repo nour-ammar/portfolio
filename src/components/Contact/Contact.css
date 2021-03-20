@@ -1,0 +1,22 @@
+.contact {
+    flex-grow: 1;
+  }
+  
+  .contact h1 {
+    margin-bottom: 20px;
+    color:#1981aa;
+    text-shadow: 1px 1px 3px rgb(160, 157, 157);
+  }
+  .contact h4{
+    color:rgb(172, 155, 83);
+
+  }
+  
+  .contact iframe {
+    border: 0;
+    width: 60%;
+    height: 300px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+
+  }

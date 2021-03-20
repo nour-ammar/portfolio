@@ -5,4 +5,7 @@
   
   .about h1 {
     margin-bottom: 20px;
+    color:#1981aa;
+    text-shadow: 1px 1px 3px rgb(160, 157, 157);
+
   }

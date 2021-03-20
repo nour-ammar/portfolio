@@ -1,0 +1,42 @@
+.skills {
+    flex-grow: 1;
+    padding :6%;
+  }
+  
+  .skills h1 {
+    margin-bottom: 35px;
+    color:#1981aa;
+    text-shadow: 1px 1px 3px rgb(160, 157, 157);
+  }
+  
+  .content {
+    display: grid;
+    font-size: 17px;
+    grid-template-columns: 1fr 1fr;
+    gap:10%;
+  }
+  
+  .content div {
+    margin-bottom: 25px;
+  }
+  
+  .content strong {
+    line-height: 50px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    display: block;
+    color:rgb(172, 155, 83);
+  }
+  
+  .content li {
+    margin: 2%;
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  @media (min-width: 800px) {
+    .content {
+      grid-template-columns: 1fr 1fr;
+      gap:20%
+    }
+  }

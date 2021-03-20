@@ -31,12 +31,7 @@ const NavBar = () => {
     <nav className="navbar">
       <div className="nav-wrapper">
         <div className="logo">
-          {/* <Link to="/">
-            <img
-              src="https://github.com/DwinaTech/public-images/blob/main/DwinaTech-brand.png?raw=true"
-              alt="brand"
-            />
-          </Link> */}
+          {/* add my logo */}
         </div>
         <div className="list-wrapper">
           <img
