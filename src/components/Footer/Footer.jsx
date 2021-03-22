@@ -17,7 +17,7 @@ function Footer() {
         target="_blank"
       >
         <img
-          src="https://www.flaticon.com/svg/vstatic/svg/1384/1384014.svg?token=exp=1616234625~hmac=b5cad7eefcf67c936fa4e520fabef657"
+          src="https://image.flaticon.com/icons/png/512/174/174857.png"
           alt="LinkIn-icon"
         />
       </a>
