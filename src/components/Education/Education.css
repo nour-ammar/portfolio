@@ -1,0 +1,25 @@
+.education{
+    flex-grow: 1;
+    margin-bottom: 15px;
+  }
+  
+  .education h1 {
+    margin-top:15px;
+    color:#1981aa;
+    font-size: 30px;
+  }
+
+  .title-1{
+      color: brown;
+  }
+  .title-2{
+      color: rgb(172, 155, 83);
+  }
+  .paragraph{
+      font-size: 14px;
+  }
+  .ed{
+      max-width: 15%;
+      max-height: 15vh;
+      padding: 1%;
+  }

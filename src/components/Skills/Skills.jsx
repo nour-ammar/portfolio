@@ -14,6 +14,11 @@ function Skills() {
             | Angular +2 | ReactJS | Redux | Vue | HTML| CSS | AJAX | Git
             |TypeScript
           </p>
+          
+          <img className="sk"
+        src={`${process.env.PUBLIC_URL}/dev skills.png`}
+        alt="person picture"
+      />
         </div>
         <div>
           <strong>SOFT SKILLS</strong>
@@ -21,6 +26,11 @@ function Skills() {
             Autonomous-learning | Time management |Problem solving | Teamwork |
             Motivation
           </p>
+          <br/>
+          <img className="sk"
+        src={`${process.env.PUBLIC_URL}/soft skills.png`}
+        alt="person picture"
+      />
         </div>
       </div>
     </div>

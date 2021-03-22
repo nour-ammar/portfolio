@@ -1,11 +1,12 @@
 .about {
-    flex-grow: 1;
-    padding: 5%;
-  }
-  
-  .about h1 {
-    margin-bottom: 20px;
-    color:#1981aa;
-    text-shadow: 1px 1px 3px rgb(160, 157, 157);
+  padding: 5%;
+}
 
-  }
+.about h1 {
+  margin-bottom: 20px;
+  color: #1981aa;
+  text-shadow: 1px 1px 3px rgb(160, 157, 157);
+}
+.about-p {
+  padding: 70px 140px;
+}

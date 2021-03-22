@@ -9,9 +9,9 @@ function Home() {
     <div className="home">
     <div className="title">
       <h1>
-        <p>Hi,</p>
-        <p>I am Nour</p>
-        <p>Web Developer</p>
+        <p className='home-title'>Hi,</p>
+        <p className='home-title'>I am Nour Ammar</p>
+        <p className='home-title'>Full Stack Javascript Developer</p>
       </h1>
       <Link to="about">
         <button>More Info</button>

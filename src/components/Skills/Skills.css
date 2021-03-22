@@ -4,7 +4,7 @@
   }
   
   .skills h1 {
-    margin-bottom: 35px;
+    margin-bottom: 20px;
     color:#1981aa;
     text-shadow: 1px 1px 3px rgb(160, 157, 157);
   }
@@ -17,7 +17,6 @@
   }
   
   .content div {
-    margin-bottom: 25px;
   }
   
   .content strong {
@@ -30,7 +29,6 @@
   
   .content li {
     margin: 2%;
-    margin-bottom: 10px;
     text-align: left;
   }
   
@@ -39,4 +37,9 @@
       grid-template-columns: 1fr 1fr;
       gap:20%
     }
+  }
+  .sk{
+    padding: 5%;
+    max-width: 80%;
+    max-height: 30vh;
   }

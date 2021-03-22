@@ -1,0 +1,19 @@
+.works {
+    flex-grow: 1;
+    margin-bottom: 15px;
+  }
+  
+  .works h1 {
+    margin-bottom: 20px;
+    color:#1981aa;
+  }
+
+  .title-1{
+      color: brown;
+  }
+  .title-2{
+      color: rgb(172, 155, 83);
+  }
+  .paragraph{
+      font-size: 14px;
+  }

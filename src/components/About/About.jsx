@@ -6,7 +6,7 @@ function About() {
   return (
     <div className="about">
       <h1>About me</h1>
-      <p>
+      <p className="about-p">
         I'm Nour Ammar a fresh graduated as Full Stack javaScript Developer. I'm
         passionate about coding that's why I don't mind spending the whole day
         in front my screen writing beautiful lines of code. I was involved in
