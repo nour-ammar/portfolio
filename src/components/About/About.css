@@ -7,6 +7,9 @@
   color: #1981aa;
   text-shadow: 1px 1px 3px rgb(160, 157, 157);
 }
-.about-p {
-  padding: 70px 140px;
+
+@media (min-width: 800px) {
+  .about-p {
+    padding: 70px 140px;
+  }
 }

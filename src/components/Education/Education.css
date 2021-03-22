@@ -19,7 +19,15 @@
       font-size: 14px;
   }
   .ed{
-      max-width: 15%;
-      max-height: 15vh;
-      padding: 1%;
+    max-width: 120%;
+    max-height: 15vh;
+    padding: 1%;
+}
+  
+  @media (min-width: 800px) {
+    .ed{
+        max-width: 15%;
+        max-height: 15vh;
+        padding: 1%;
+    }
   }
